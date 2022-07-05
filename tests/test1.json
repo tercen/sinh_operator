@@ -13,5 +13,6 @@
   "yAxis": "y_values",
   "xAxis": "",
   "generatedOn": "07/05/2022 03:32:06 PM 2022",
-  "version": ""
+  "version": "",
+  "relTol": 1e-05
 }
