@@ -1,6 +1,6 @@
 {
   "name": "sinh",
-  "description": "sinh transformation a given data",
+  "description": "Computes the hyperbolic sine of your data.",
   "tags": [
     "preprocessing",
     "transformation"
